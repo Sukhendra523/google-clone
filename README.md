@@ -1,3 +1,40 @@
+👉 [See Live Demo](https://clone-dbef1.web.app/)
+
+## Stack Used :-
+
+<ul> 
+  <li>ReactJs</li>
+  <li>Firebase</li>
+  <li> <a href="https://www.googleapis.com/customsearch">Google custom Search API</a></li>
+</ul>
+
+## How to use:-
+
+- Step-1:
+
+  clone this repo
+
+  ```
+  gti clone https://github.com/Sukhendra523/google-clone.git
+  ```
+
+- Step-2:
+
+  Install all dependencies
+
+  ```
+  cd google-clone
+  npm install
+  ```
+
+- Step-3:
+
+  Finally to start the server execute this script
+
+  ```
+  npm start
+  ```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
